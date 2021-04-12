@@ -1,7 +1,4 @@
-$white: #fff;
-$black: #000;
-$bg-gradient: linear-gradient(151deg, rgba(50,108,255,1) 0%, rgba(38,255,242,1) 100%);
-$bg-gradient-safe: rgb(50,108,255);
+@import "../#variables.scss";
 
 .offer {
     max-width: 122.4rem;
